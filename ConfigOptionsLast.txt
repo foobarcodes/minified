@@ -1,0 +1,23 @@
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	LNK2001	unresolved external symbol CRYPTO_clear_free	EVPPort	D:\Temp\OpenSSLPort\EVPPort\EVPPort\evp_enc.obj	1	
+
+
+
+perl Configure no-sock no-threads no-md2 no-asm no-shared no-ssl3 no-idea no-mdc2 no-rc5 no-zlib no-comp no-hw no-engine no-srp no-psk no-dtls no-dtls1 no-ec no-ecdh no-ecdsa no-autoalginit no-camellia no-cast no-chacha no-cms no-dh no-dsa no-ec2m no-gost no-ocsp no-poly1305 no-ripemd no-scrypt no-seed no-siphash no-sm2 no-sm3 no-sm4 no-ssl no-tls no-whirlpool no-weak-ssl-ciphers
+
+
+
+
+10:29 AM 21-06-2024
+
+perl Configure no-fips no-ssl no-err no-autoalginit no-hw no-engine no-srp no-psk no-dtls no-dtls1 no-tls1_3 no-ec no-ecdsa no-ecdh no-ocsp no-ct no-asm no-shared no-tests no-unit-test no-deprecated no-idea no-mdc2 no-rc2 no-rc4 no-rc5 no-seed no-sm2 no-sm3 no-sm4 no-poly1305 no-chacha no-cast no-camellia no-whirlpool no-ripemd no-md2 no-md4 no-comp no-dsa no-dh no-ts no-sock no-threads no-blake2
+
+
+10:59 PM 24-06-2024
+
+Perl Configure no-asm no-aria no-async no-blake2 no-bf no-camellia no-cast no-chacha no-cmac no-cms no-ct no-dgram no-dsa no-dso no-dtls no-dtls1 no-dtls1_2 no-ec no-ecdh no-ecdsa no-engine no-err no-gost no-hw no-idea no-md2 no-md4 no-mdc2 no-ocsp no-poly1305 no-psk no-quic no-rc2 no-rc4 no-rmd160 no-scrypt no-sctp no-seed no-siv no-sm2 no-sm3 no-sm4 no-srp no-ssl no-ssl3 no-ssl3-method no-tls no-tls1 no-tls1_1 no-tls1_2 no-tls1_3 no-ts no-whirlpool no-weak-ssl-ciphers no-threads no-http no-comp no-dh no-sock no-ui no-tests
+
+
+11:10 AM 29-07-2024
+
+Perl Configure no-asm no-aria no-async no-blake2 no-bf no-camellia no-cast no-chacha no-cmac no-cms no-ct no-dgram no-dsa no-dso no-dtls no-dtls1 no-dtls1_2 no-ec no-ecdh no-ecdsa no-engine no-err no-gost no-hw no-idea no-md2 no-md4 no-mdc2 no-ocsp no-poly1305 no-psk no-quic no-rc2 no-rc4 no-rmd160 no-scrypt no-sctp no-seed no-siv no-sm2 no-sm3 no-sm4 no-srp no-ssl no-ssl3 no-ssl3-method no-tls no-tls1 no-tls1_1 no-tls1_2 no-tls1_3 no-ts no-whirlpool no-threads no-http no-comp no-dh no-sock no-ui no-tests
