@@ -1,0 +1,6 @@
+// encrypt
+openssl.exe enc -e -des-ede3 -md md5 -base64 -in foobar.txt -out foobar_enc.txt -K 646f74636f6d646f74636f6d646f74636f6d646f74636f6d646f
+
+// decrypt
+openssl.exe enc -d -des-ede3 -md md5 -base64 -in foobar_enc.txt -out foobar_decrypted.txt -K 646f74636f6d646f74636f6d646f74636f6d646f74636f6d646f
+
